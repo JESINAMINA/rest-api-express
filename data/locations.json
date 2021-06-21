@@ -1,0 +1,10 @@
+[{
+  "location": "delhi",
+  "unit": "Celsius"
+},{
+  "location": "mumbai",
+  "unit": "Fahrenheit"
+},{
+  "location": "london",
+  "unit": "Celsius"
+}]
